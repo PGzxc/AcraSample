@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AcraSample</string>
+    <string name="exception">你的应用异常了</string>
+    <string name="exception_nullPointer">空指针异常</string>
+    <string name="exc_outOfBounds">数组角标越界</string>
+    <string name="exc_anr">ANR</string>
+    <string name="exc_classCast">类型转换异常</string>
+    <!--dialog-->
+
+    <string name="resCommentPrompt">提示信息</string>
+    <string name="resEmailPrompt">邮件地址</string>
+    <string name="resNegativeButtonText">取消</string>
+    <string name="resPositiveButtonText">确定</string>
+    <string name="resText">对话框内容</string>
+    <string name="resTitle">对话框标题</string>
+   <!--Notify-->
+    <string name="ChannelName">消息通知名称</string>
+    <string name="resChannelText">消息通知内容</string>
+    <string name="resChannelTitle">消息通知标题</string>
+</resources>
